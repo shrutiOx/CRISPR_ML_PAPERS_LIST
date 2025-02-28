@@ -1,6 +1,6 @@
-Kayama K, Kanno M, Chisaki N et al (2021) Prediction of PCR amplification from primer and template sequences using recurrent neural network. Sci Rep 11:7493. https://doi.org/10.1038/s41598-021-86357-1
+Kayama K, Kanno M, Chisaki N et al (2021) Prediction of PCR amplification from primer and template sequences using recurrent neural network. Sci Rep 11:7493.  https://doi.org/10.1038/s41598-021-86357-1
 
-Xu C, Padmanabhan R, Reinecke F, et al (2020) Predicting primer and panel off-target rate in QIAseq targeted DNA panels using convolutional neural networks. 2020.07.13.201558
+Xu C, Padmanabhan R, Reinecke F, et al (2020) Predicting primer and panel off-target rate in QIAseq targeted DNA panels using convolutional neural networks.  2020.07.13.201558
 
 Bai B, Long J, Yang Z, et al (2023) An optimization method of primer design based on attention-BiLSTM. In: 2023 2nd International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC). pp 263–268
 
