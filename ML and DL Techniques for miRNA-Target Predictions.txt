@@ -1,0 +1,25 @@
+Liu H, Yue D, Chen Y et al (2010) Improving performance of mammalian microRNA target prediction. BMC Bioinformatics 11:476. https://doi.org/10.1186/1471-2105-11-476
+
+Yousef M, Jung S, Kossenkov AV et al (2007) Naïve Bayes for microRNA target predictions—machine learning for microRNA targets. Bioinformatics 23:2987–2992. https://doi.org/10.1093/bioinformatics/btm484
+
+Chu Y-W, Chang K-P, Chen C-W et al (2020) miRgo: integrating various off-the-shelf tools for identification of microRNA–target interactions by heterogeneous features and a novel evaluation indicator. Sci Rep 10:1466. https://doi.org/10.1038/s41598-020-58336-5
+
+Agarwal V, Bell GW, Nam J-W, Bartel DP (2015) Predicting effective microRNA target sites in mammalian mRNAs. elife 4:e05005. https://doi.org/10.7554/eLife.05005
+
+Betel D, Koppal A, Agius P et al (2010) Comprehensive modeling of microRNA targets predicts functional non-conserved and non-canonical sites. Genome Biol 11:R90. https://doi.org/10.1186/gb-2010-11-8-r90
+
+Krek A, Grün D, Poy MN et al (2005) Combinatorial microRNA target predictions. Nat Genet 37:495–500. https://doi.org/10.1038/ng1536
+
+Krüger J, Rehmsmeier M (2006) RNAhybrid: microRNA target prediction easy, fast and flexible. Nucleic Acids Res 34:W451–W454. https://doi.org/10.1093/nar/gkl243
+
+Bandyopadhyay S, Ghosh D, Mitra R, Zhao Z (2015) MBSTAR: multiple instance learning for predicting specific functional binding sites in microRNA targets. Sci Rep 5:8004. https://doi.org/10.1038/srep08004
+
+Cheng S, Guo M, Wang C et al (2016) MiRTDL: a deep learning approach for miRNA target prediction. IEEE/ACM Trans Comput Biol Bioinform 13:1161–1169. https://doi.org/10.1109/TCBB.2015.2510002
+
+Miranda KC, Huynh T, Tay Y et al (2006) A pattern-based method for the identification of MicroRNA binding sites and their corresponding heteroduplexes. Cell 126:1203–1217. https://doi.org/10.1016/j.cell.2006.07.031
+
+Rennie W, Kanoria S, Liu C et al (2016) STarMirDB: A database of microRNA binding sites. RNA Biol 13:554–560. https://doi.org/10.1080/15476286.2016.1182279
+
+Przybyszewski J, Malawski M, Lichołai S (2023) GraphTar: applying word2vec and graph neural networks to miRNA target prediction. BMC Bioinformatics 24:436. https://doi.org/10.1186/s12859-023-05564-x
+
+Gu T, Zhao X, Barbazuk WB, Lee J-H (2021) miTAR: a hybrid deep learning-based approach for predicting miRNA targets. BMC Bioinformatics 22:96. https://doi.org/10.1186/s12859-021-04026-6
