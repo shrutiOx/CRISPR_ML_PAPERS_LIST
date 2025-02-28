@@ -1,0 +1,14 @@
+Kayama K, Kanno M, Chisaki N et al (2021) Prediction of PCR amplification from primer and template sequences using recurrent neural network. Sci Rep 11:7493. https://doi.org/10.1038/s41598-021-86357-1
+
+Xu C, Padmanabhan R, Reinecke F, et al (2020) Predicting primer and panel off-target rate in QIAseq targeted DNA panels using convolutional neural networks. 2020.07.13.201558
+
+Bai B, Long J, Yang Z, et al (2023) An optimization method of primer design based on attention-BiLSTM. In: 2023 2nd International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC). pp 263–268
+
+
+Buterez D (2021) Scaling up DNA digital data storage by efficiently predicting DNA hybridisation using deep learning. Sci Rep 11:20517. https://doi.org/10.1038/s41598-021-97238-y
+
+
+Perez-Romero CA, Tonda A, Mendoza-Maldonado L, et al (2021) Design of specific primer sets for the detection of SARS-CoV-2 variants of concern B.1.1.7, B.1.351, P.1, B.1.617.2 using artificial intelligence. 2021.01.20.427043
+
+
+Dwivedi-Yu JA, Oppler ZJ, Mitchell MW et al (2023) A fast machine-learning-guided primer design pipeline for selective whole genome amplification. PLoS Comput Biol 19:e1010137. https://doi.org/10.1371/journal.pcbi.1010137
