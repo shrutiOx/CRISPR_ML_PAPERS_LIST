@@ -8,13 +8,18 @@ This repository contains a comprehensive list of all papers cited and discussed 
 The collection covers computational approaches for:
 
 Primer Design
-miRNA-Target Predictions
-CRISPR Applications:
 
-  On-Target Activity
-  Off-Target Activity
-  Prime and Base Editing
-  Cas9-Induced Editing Profile Predictions
+1) miRNA-Target Predictions
+
+2) CRISPR Applications:
+
+  A) On-Target Activity
+  
+  B) Off-Target Activity
+  
+  C) Prime and Base Editing
+  
+  D) Cas9-Induced Editing Profile Predictions
 
 
 Additionally, we've included all CRISPR tools (list of papers )  from Table 3 of our paper.
