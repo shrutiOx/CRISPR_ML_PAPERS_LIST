@@ -1,0 +1,58 @@
+Chuai G, Ma H, Yan J et al (2018) DeepCRISPR: optimized CRISPR guide RNA design by deep learning. Genome Biol 19:80. https://doi.org/10.1186/s13059-018-1459-4
+
+Lin J, Wong K-C (2018) Off-target predictions in CRISPR-Cas9 gene editing using deep learning. Bioinformatics 34:i656–i663. https://doi.org/10.1093/bioinformatics/bty554
+
+Liu Q, He D, Xie L (2019) Prediction of off-target specificity and cell-specific fitness of CRISPR-Cas System using attention boosted deep learning and network-based gene feature. PLoS Comput Biol 15:e1007480. https://doi.org/10.1371/journal.pcbi.1007480
+
+Liu Q, Cheng X, Liu G et al (2020) Deep learning improves the ability of sgRNA off-target propensity prediction. BMC Bioinformatics 21:51. https://doi.org/10.1186/s12859-020-3395-z
+
+Zhang Y, Long Y, Yin R, Kwoh CK (2020) DL-CRISPR: a deep learning method for off-target activity prediction in CRISPR/Cas9 with data augmentation. IEEE Access 8:76610–76617. https://doi.org/10.1109/ACCESS.2020.2989454
+
+CRISPR-Net: a recurrent convolutional network quantifies CRISPR off-target activities with mismatches and Indels—Lin—2020—Advanced Science—Wiley Online Library. https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201903562. Accessed 25 Jan 2024
+
+Zhang G, Zeng T, Dai Z, Dai X (2021) Prediction of CRISPR/Cas9 single guide RNA cleavage efficiency and specificity by attention-based convolutional neural networks. Comput Struct Biotechnol J 19:1445–1457. https://doi.org/10.1016/j.csbj.2021.03.001
+
+Charlier J, Nadon R, Makarenkov V (2021) Accurate deep learning off-target prediction with novel sgRNA-DNA sequence encoding in CRISPR-Cas9 gene editing. Bioinformatics 37:2299–2307. https://doi.org/10.1093/bioinformatics/btab112
+
+Niu R, Peng J, Zhang Z, Shang X (2021) R-CRISPR: a deep learning network to predict off-target activities with mismatch, insertion and deletion in CRISPR-Cas9 system. Genes 12:1878. https://doi.org/10.3390/genes12121878
+
+Störtz F, Mak JK, Minary P (2023) piCRISPR: physically informed deep learning models for CRISPR/Cas9 off-target cleavage prediction. Artif Intell Life Sci 3:100075. https://doi.org/10.1016/j.ailsci.2023.100075
+
+Vinodkumar PK, Ozcinar C, Anbarjafari G (2021) Prediction of sgRNA off-target activity in CRISPR/Cas9 gene editing using graph convolution network. Entropy 23:608. https://doi.org/10.3390/e23050608
+
+Zhang Z-R, Jiang Z-R (2022) Effective use of sequence information to predict CRISPR-Cas9 off-target. Comput Struct Biotechnol J 20:650–661. https://doi.org/10.1016/j.csbj.2022.01.006
+
+
+Fu R, He W, Dou J et al (2022) Systematic decomposition of sequence determinants governing CRISPR/Cas9 specificity. Nat Commun 13:474. https://doi.org/10.1038/s41467-022-28028-x
+
+Luo Y, Chen Y, Xie H et al (2024) Interpretable CRISPR/Cas9 off-target activities with mismatches and indels prediction using BERT. Comput Biol Med 169:107932. https://doi.org/10.1016/j.compbiomed.2024.107932
+
+Zhang Z, Lamson AR, Shelley M, Troyanskaya O (2023) Interpretable neural architecture search and transfer learning for understanding CRISPR–Cas9 off-target enzymatic reactions. Nat Comput Sci 3:1056–1066. https://doi.org/10.1038/s43588-023-00569-1
+
+Chen D, Shu W, Peng S (2020) Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks. In: 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). pp 245–250
+
+Trivedi TB, Boger R, Kamath GM, et al (2020) Crispr2vec: machine learning model predicts off-target cuts of CRISPR systems. 2020.10.28.359885
+
+Zhang W, Yin J, Zhang-Ding Z et al (2021) In-depth assessment of the PAM compatibility and editing activities of Cas9 variants. Nucleic Acids Res 49:8785–8795. https://doi.org/10.1093/nar/gkab507
+
+Kirillov B, Savitskaya E, Panov M et al (2022) Uncertainty-aware and interpretable evaluation of Cas9–gRNA and Cas12a–gRNA specificity for fully matched and partially mismatched targets with Deep Kernel Learning. Nucleic Acids Res 50:e11. https://doi.org/10.1093/nar/gkab1065
+
+Yang Y, Li J, Zou Q et al (2023) Prediction of CRISPR-Cas9 off-target activities with mismatches and indels based on hybrid neural network. Comput Struct Biotechnol J 21:5039–5048. https://doi.org/10.1016/j.csbj.2023.10.018
+
+Mak JK, Störtz F, Minary P (2022) Comprehensive computational analysis of epigenetic descriptors affecting CRISPR-Cas9 off-target activity. BMC Genomics 23:805. https://doi.org/10.1186/s12864-022-09012-7
+
+Listgarten J, Weinstein M, Kleinstiver BP et al (2018) Prediction of off-target activities for the end-to-end design of CRISPR guide RNAs. Nat Biomed Eng 2:38–47. https://doi.org/10.1038/s41551-017-0178-6
+
+Alkan F, Wenzel A, Anthon C et al (2018) CRISPR-Cas9 off-targeting assessment with nucleic acid duplex energy parameters. Genome Biol 19:177. https://doi.org/10.1186/s13059-018-1534-x
+
+Abadi S, Yan WX, Amar D, Mayrose I (2017) A machine learning approach for predicting CRISPR-Cas9 cleavage efficiencies and patterns underlying its mechanism of action. PLoS Comput Biol 13:e1005807. https://doi.org/10.1371/journal.pcbi.1005807
+
+Dhanjal JK, Dammalapati S, Pal S, Sundar D (2020) Evaluation of off-targets predicted by sgRNA design tools. Genomics 112:3609–3614. https://doi.org/10.1016/j.ygeno.2020.04.024
+
+Chen Q, Chuai G, Zhang H et al (2023) Genome-wide CRISPR off-target prediction and optimization using RNA-DNA interaction fingerprints. Nat Commun 14:7521. https://doi.org/10.1038/s41467-023-42695-4
+
+Zhang S, Li X, Lin Q, Wong K-C (2019) Synergizing CRISPR/Cas9 off-target predictions for ensemble insights and practical applications. Bioinformatics 35:1108–1115. https://doi.org/10.1093/bioinformatics/bty748
+
+Peng H, Zheng Y, Zhao Z et al (2018) Recognition of CRISPR/Cas9 off-target sites through ensemble learning of uneven mismatch distributions. Bioinformatics 34:i757–i765. https://doi.org/10.1093/bioinformatics/bty558
+
+Liu X, Yang Y, Qiu Y et al (2020) SeqCor: correct the effect of guide RNA sequences in clustered regularly interspaced short palindromic repeats/Cas9 screening by machine learning algorithm. J Genet Genomics 47:672–680. https://doi.org/10.1016/j.jgg.2020.10.007
